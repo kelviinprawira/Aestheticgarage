@@ -18,3 +18,8 @@
   max-width: 200px;
   filter: drop-shadow(2px 2px 2px)
 }
+
+section,
+footer {
+  padding: 20px 0;
+}
